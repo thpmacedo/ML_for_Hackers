@@ -1,11 +1,10 @@
 # Code for Machine Learning for Hackers #
 
-This repository contains all of the code examples for [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do) (2012).  The code may not appear exactly as it does in the text, as additional comments and modifications may have been added since publication.
+I've forked this project in order to study its code and implement my own changes.
 
 ## Authors ##
 
- - Drew Conway, Department of Politics, New York University [http://drewconway.com/](http://drewconway.com/)
- - John Myles White, Psychology Department, Princeton University [http://www.johnmyleswhite.com/](http://www.johnmyleswhite.com/)
+ - Wilson Freitas, Quant
 
 ## License ##
 
